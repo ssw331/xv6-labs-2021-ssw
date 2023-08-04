@@ -1,0 +1,2 @@
+1. syscalls that need to read data from kernel in userspace, such as fork(). Because those calls can use the shared region without the transition of data between kernel and userspace.
+2. Page 0 contains the program of the process.Page 2 is the stack for the certain process. Page 1 is guard page which user shouldn't visit it otherwise the hardware will report a fault, so user cann't visit it. 

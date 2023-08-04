@@ -1,0 +1,10 @@
+1. a0-a7, for example, the 13 in printf() is stored in the a2 register.
+2. no visible calls. The compiler make the calculation during compiling.
+3. 0x628
+4. 0x30
+5. output: He110 World
+If RISC_V is big_endin, the i should be changed to 0x726c6400. 
+(Address in RISC_V is sorted by bytes. And & will always get the low address.)
+There is no need to change 57616 because it makes no sense with the address.
+6. The value of the register a2 which will be used to store the third argument of functions
+(if the function has).

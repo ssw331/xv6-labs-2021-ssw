@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mmap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pgtbl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/syscall" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thread" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/traps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/util" vcs="Git" />
+  </component>
+</project>

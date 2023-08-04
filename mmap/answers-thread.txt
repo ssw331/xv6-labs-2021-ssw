@@ -1,0 +1,1 @@
+Because multipule threads may cause the conflict that two thread process the same table, when the thread 1 is processing the insert and the thread 2 is processing the insert. So we need the lock.
